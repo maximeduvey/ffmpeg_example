@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ffmpeg_example/.vs/ffmpeg_example
+/ffmpeg_example/x64/Debug
+/ffmpeg_example/output.264
